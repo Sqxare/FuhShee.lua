@@ -1,4 +1,4 @@
-local whitelistedspeds = {""} 
+local whitelistedspeds = {"3196916522"} 
 --to add, just add a comma and proceed
 for loser, montero in pairs(whitelistedspeds) do
 if game.Players.LocalPlayer.UserId == montero then 
