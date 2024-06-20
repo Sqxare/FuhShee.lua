@@ -866,7 +866,7 @@ local function AutoBoost()
         until game.Players.LocalPlayer.Character:FindFirstChild("Basketball")
 
         if _G.AutoScore then
-        wait(1.5)
+        wait(1.8)
         game.Players.LocalPlayer.Character.Humanoid.Jump = true
         end
 
